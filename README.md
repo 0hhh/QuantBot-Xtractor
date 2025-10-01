@@ -1,6 +1,6 @@
-# 📈 Quant-Xtractor
+# 📈 QuantBot-Xtractor
 
-**Quant-Xtractor** is a Python-based data collection and analysis system for real-time market intelligence.  
+**QuantBot-Xtractor** is a Python-based data collection and analysis system for real-time market intelligence.  
 It scrapes Twitter/X for Indian stock market discussions, processes the data, and converts it into quantitative signals for trading insights.
 
 ---
@@ -31,7 +31,7 @@ It scrapes Twitter/X for Indian stock market discussions, processes the data, an
 
 ## 📂 Project Structure
 
-Quant-Xtractor/
+QuantBot-Xtractor/
 |-- requirements.txt
 |-- README.md
 |-- hashtags.json
@@ -54,8 +54,8 @@ Quant-Xtractor/
 
 1. **Clone the repository**
     ```sh
-    git clone https://github.com/0hhh/Quant-Xtractor.git
-    cd Quant-Xtractor
+    git clone https://github.com/0hhh/QuantBot-Xtractor.git
+    cd QuantBot-Xtractor
     ```
 
 2. **Install dependencies**
